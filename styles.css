@@ -10,3 +10,18 @@ body{
     align-items: center;
     margin: 15px;
 }
+input{
+    width: 70px;
+    height:35px ;
+    margin: 5px;
+    border-radius: 10%;
+    border-color: black;
+    border:2px ;
+}
+button{
+    background-color: rgb(14, 226, 14);
+    border-radius: 10%;
+    border: 2px;
+    width: 45;
+    height: 35px;;
+}
