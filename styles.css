@@ -2,9 +2,9 @@ body{
     background-color: gray;
 }
 .contaner{
-    
+    margin-top: 5000px;
     display: flex;
-    height:100vh;
+    height:10vh;
     width:100vw;
     justify-content: center;
     align-items: center;
@@ -34,4 +34,10 @@ button{
     height: 35px;
     margin: 5px;
 
+}
+.square{
+    width: 50;
+    height: 35px;;
+    border-radius: 10%;
+    
 }
